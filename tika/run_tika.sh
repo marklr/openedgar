@@ -1,1 +1,1 @@
-java -jar tika-server-1.18.jar
+java -jar tika-server-1.25.jar
